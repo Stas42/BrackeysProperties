@@ -22,7 +22,7 @@ namespace BrackeysProperties
             Console.WriteLine(tom.health);
             tom.health += 400;
             Console.WriteLine(tom.health);
-            tom.health -= 70;
+            tom.health -= 80;
             Console.WriteLine(tom.health);
 
 
