@@ -8,9 +8,9 @@ namespace BrackeysProperties
 {
     class Player
     {
-        private int _health = 100;
-        //Get only poroperty (Readonly access )
-        public int health
+        private int _health = 100; 
+        
+        public int health //Get only poroperty (Readonly access )
         {
             get
             {
